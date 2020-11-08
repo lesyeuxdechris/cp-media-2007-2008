@@ -1,0 +1,19 @@
+
+&archive=1&
+
+&p0=2007|0823|82|Location Lost&
+&p1=2007|0503|81|Shipshape Surprise&
+&p2=2007|0426|80|Party On (Deck)!&
+&p3=2007|0419|79|Pirate Party Paradise&
+&p4=2007|0412|78|Staged Fun&
+&p5=2007|0405_cc2|77|Easter Egg Hunt&
+&p6=2007|0329_cc2|76|April Fools Day&
+&p7=2007|0322_cc|75|Pumped Up Puffle Play&
+&p8=2007|0315|74|Charmed Celebrations&
+
+&a0=&
+&a1=&
+&a2=&
+&a3=&
+
+&e=0&
